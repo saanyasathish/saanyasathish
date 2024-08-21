@@ -11,7 +11,7 @@
  
  -🌱 I’m currently learning **Backend Development**
  
- -💬 Ask me about **Node.js, React... or anything [here](https://www.linkedin.com/in/vedanshmaheshwari297/)**
+ -💬 Ask me about **Node.js, React... or anything [here](https://www.linkedin.com/in/saanyasathish/)**
 
  -🚀 Crafting code, one byte at a time. 
 
