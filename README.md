@@ -72,9 +72,9 @@
 <div>
   <h2>🐍 My Contributions </h2>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedanshMaheshwari/VedanshMaheshwari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//VedanshMaheshwari/VedanshMaheshwari/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VedanshMaheshwari/VedanshMaheshwari/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saanyasathish/saanyasathish/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//saanyasathish/saanyasathish/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saanyasathish/saanyasathish/output/github-contribution-grid-snake.svg">
 </picture>
 
   <br/>
@@ -85,21 +85,21 @@
 <h2>⚡ Stats</h2>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VedanshMaheshwari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&rank_icon=github&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=VedanshMaheshwari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saanyasathish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&rank_icon=github&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=saanyasathish&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"/>
 </div>
 <hr/>
 
 ## 🔗 Connect with Me
 
 <div align="center"> 
-  <a href="mailto:vedanshm15@gmail.com">
+  <a href="mailto:saanyasathish12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/vedanshmaheshwari297" target="_blank">
+  <a href="https://linkedin.com/in/saanyasathish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://VedanshMaheshwari.github.io" target="_blank">
+  <a href="https://saanyasathish.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
