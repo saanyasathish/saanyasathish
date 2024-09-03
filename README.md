@@ -15,7 +15,7 @@
 
  -🚀 Crafting code, one byte at a time. 
 
- -⚡ Fun fact **If coffee could talk, it would probably say, “I’m here to make your day a latte better!”**
+ -⚡ Fun fact **Pineapples grow from the ground, so no trees were harmed in the making of your pizza.**
 
  </div>
  <hr/>
