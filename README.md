@@ -15,7 +15,7 @@
 
  -🚀 Crafting code, one byte at a time. 
 
- -⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ -⚡ Fun fact **If coffee could talk, it would probably say, “I’m here to make your day a latte better!”**
 
  </div>
  <hr/>
